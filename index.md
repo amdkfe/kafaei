@@ -1,7 +1,7 @@
 Welcome to My GitHub Pages
 <p>
 
-Few years ago I designed a brand and modify the HTML/CSS codes of a pre-build e-commerce template of a family business online shop, a website that with online marketing (that’s done by myself) manages to generate about £250,000 in the last year.
+Few years ago ( in 2012 ) I designed a brand and modify the HTML/CSS codes of a pre-build e-commerce template of a family business online shop, a website that with online marketing (that’s done by myself) manages to generate about £150,000 in the last year.
 <p>
 <img src="https://raw.githubusercontent.com/amdkfe/kafaei/master/Capture1.PNG" alt="some_text" style="width:width;height:height;">
 
